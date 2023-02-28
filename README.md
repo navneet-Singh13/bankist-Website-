@@ -1,4 +1,4 @@
-# bankist-Website
+#SUMMER TRENDS
 
 JAVASCRIPT CONCEPTS LEARNT :- 
 
